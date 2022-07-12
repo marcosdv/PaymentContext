@@ -1,17 +1,24 @@
-# Fundamentos do ASP.NET 6 (Módulo 3/4/5/6/7/8 - Blog Api - ASP.NET 6)
+# Modelando Domínios Ricos
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-ASP.NET%20C%23-red)
 
-### Aprenda a construir APIs, implementar autenticação e autorizaçao e desenvolvimento de serviços com o Framework mais amado pela comunidade.
+### Curso que aplica os conceitos de OOP, DDD e CQRS para modelar um contexto de pagamentos, e vou te acompanhar na jornada de transformação de domínios anêmicos para domínios ricos.
+
+### Os Domínios Ricos são o contrário de Domínios Anêmicos e você, provavelmente, vem utilizando domínios anêmicos em seus projetos.
 
 ### Conteúdo
 
-- [x] CRUD e Entity Framework (Módulo 3)
-- [x] Autenticação e Autorização (Módulo 4)
-- [x] Configuração (Módulo 5)
-- [x] Performance (Módulo 6)
-- [x] ASP.NET 5 (Migração) (Módulo 7)
-- [x] Ambientes e Documentação (Módulo 8)
+- [x] Relembrar conceitos de OOP
+- [x] Aprender e aplicar DDD (Domain-Driven Design)
+- [x] Aprender o conceito de CQRS (Command Query Responsibility Segregation)
+- [x] Aprender os conceitos de SOLID e Clean Code
+- [x] Evitar corrupção no código
+- [x] Evitar a obsessão por tipos primitivos no seu código
+- [x] Aprender Design by Contracts
+- [ ] Implementar Fail-Fast Validations
+- [ ] Entender e implementar o Repository Pattern
+- [ ] Aprender a testar Entidades e Value Objects
+- [ ] Aprender a testar Handlers e Queries
 
 ### Tecnologias
 
@@ -20,4 +27,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
-- [Link do Curso](https://balta.io/cursos/fundamentos-aspnet)
+- [Link do Curso](https://balta.io/cursos/modelando-dominios-ricos)
