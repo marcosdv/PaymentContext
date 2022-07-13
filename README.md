@@ -15,10 +15,10 @@
 - [x] Evitar corrupção no código
 - [x] Evitar a obsessão por tipos primitivos no seu código
 - [x] Aprender Design by Contracts
-- [ ] Implementar Fail-Fast Validations
-- [ ] Entender e implementar o Repository Pattern
-- [ ] Aprender a testar Entidades e Value Objects
-- [ ] Aprender a testar Handlers e Queries
+- [x] Implementar Fail-Fast Validations
+- [x] Entender e implementar o Repository Pattern
+- [x] Aprender a testar Entidades e Value Objects
+- [x] Aprender a testar Handlers e Queries
 
 ### Tecnologias
 
